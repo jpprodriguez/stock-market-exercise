@@ -1,4 +1,4 @@
-## Simple Stock Market
+## Simple Stock Market (React App)
 
 Task: Create super simple stock market that:
 
