@@ -1,5 +1,5 @@
 ## Simple Stock Market 
-### Technology Used: React
+### Technology used: ReactJS
 
 Task: Create super simple stock market that:
 
