@@ -1,4 +1,5 @@
-## Simple Stock Market (React App)
+## Simple Stock Market 
+### Technology Used: React
 
 Task: Create super simple stock market that:
 
